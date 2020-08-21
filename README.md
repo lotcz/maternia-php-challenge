@@ -5,9 +5,8 @@
 
 ## Install dependencies
 
-    composer require --dev phpstan/phpstan
-	composer require --dev phpunit/phpunit ^9
-    npm install --save-dev prettier @prettier/plugin-php
+    composer install
+    npm install
 
 ## Run static code analysis
 

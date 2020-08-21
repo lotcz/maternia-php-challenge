@@ -1,0 +1,11 @@
+{
+	"printWidth": 80,
+	"tabWidth": 4,
+	"useTabs": true,
+	"singleQuote": true,
+	"phpVersion": "7.4",
+	"trailingCommaPHP": true,
+	"braceStyle": "1tbs",
+	"requirePragma": false,
+	"insertPragma": false
+}

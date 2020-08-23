@@ -6,7 +6,6 @@
 ## Install dependencies
 
     composer install
-    npm install
 
 ## Run static code analysis
 
@@ -15,3 +14,13 @@
 ## Run tests
 
     vendor\bin\phpunit tests
+
+## Prettier code formatting
+
+Prettier will require **NPM** to install or perhaps IDE integration.
+
+To install Prettier and PHP plugin globally, run this:
+
+    npm install --global prettier @prettier/plugin-php
+
+More information on https://prettier.io
